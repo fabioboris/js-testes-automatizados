@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sacola Adicionar o primeiro item, conferir se ele consta na sacola, e se o valor total está correto 1`] = `
+Array [
+  Object {
+    "produto": Produto {
+      "descricao": "Leite integral 1L",
+      "id": 1,
+      "preco": 4,
+      "validade": 2020-05-01T03:00:00.000Z,
+    },
+    "quantidade": 2,
+  },
+]
+`;
